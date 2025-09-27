@@ -1,0 +1,453 @@
+{
+  "lda": [
+    {
+      "topic_id": 0,
+      "keywords": [
+        "décret",
+        "faso",
+        "police",
+        "cfer",
+        "burkina faso",
+        "porter",
+        "national",
+        "etat",
+        "conseil",
+        "ministre"
+      ],
+      "documents": [
+        1,
+        3,
+        21,
+        25,
+        39
+      ],
+      "label": "décret faso police"
+    },
+    {
+      "topic_id": 1,
+      "keywords": [
+        "produit",
+        "spécial",
+        "représentant",
+        "phase",
+        "autorisation",
+        "spécial importation",
+        "soumettre",
+        "importation",
+        "autorisation spécial",
+        "qualifié"
+      ],
+      "documents": [
+        5,
+        19,
+        33
+      ],
+      "label": "produit spécial représentant"
+    },
+    {
+      "topic_id": 2,
+      "keywords": [
+        "jeune",
+        "fille",
+        "faso",
+        "espace",
+        "province",
+        "burkina faso",
+        "sankara",
+        "activité",
+        "local",
+        "cérémonie"
+      ],
+      "documents": [
+        10,
+        34
+      ],
+      "label": "jeune fille faso"
+    },
+    {
+      "topic_id": 3,
+      "keywords": [
+        "commune",
+        "local",
+        "développement",
+        "investissement",
+        "fara",
+        "population",
+        "cadre",
+        "domaine",
+        "bilan",
+        "commune fara"
+      ],
+      "documents": [
+        2,
+        14,
+        15,
+        20,
+        31
+      ],
+      "label": "commune local développement"
+    },
+    {
+      "topic_id": 4,
+      "keywords": [
+        "kampti",
+        "permettre",
+        "ministre",
+        "onu",
+        "bénéficiaire",
+        "faso",
+        "régional",
+        "délégation",
+        "délégation spécial",
+        "spécial"
+      ],
+      "documents": [
+        9,
+        12,
+        22,
+        26,
+        40
+      ],
+      "label": "kampti permettre ministre"
+    },
+    {
+      "topic_id": 5,
+      "keywords": [
+        "scolaire",
+        "directeur",
+        "école",
+        "élève",
+        "culture",
+        "éducation",
+        "traditionnel",
+        "édition",
+        "enseignant",
+        "agencer"
+      ],
+      "documents": [
+        13,
+        18,
+        28,
+        30,
+        32,
+        35,
+        37
+      ],
+      "label": "scolaire directeur école"
+    },
+    {
+      "topic_id": 6,
+      "keywords": [
+        "social",
+        "femme",
+        "protection",
+        "national",
+        "action",
+        "vie",
+        "condition vie",
+        "condition",
+        "défi",
+        "santé"
+      ],
+      "documents": [
+        4,
+        23,
+        29
+      ],
+      "label": "social femme protection"
+    },
+    {
+      "topic_id": 7,
+      "keywords": [
+        "faso",
+        "point",
+        "initiative",
+        "faso mêbo",
+        "mêbo",
+        "paix",
+        "tourisme",
+        "citoyen",
+        "pays",
+        "président"
+      ],
+      "documents": [
+        6,
+        7,
+        8,
+        11,
+        16,
+        17,
+        24,
+        27,
+        36,
+        38
+      ],
+      "label": "faso point initiative"
+    }
+  ],
+  "nmf": [
+    {
+      "topic_id": 0,
+      "keywords": [
+        "faso mêbo",
+        "mêbo",
+        "faso",
+        "paix",
+        "tonne",
+        "initiative",
+        "don",
+        "association",
+        "patrie",
+        "initiative présidentiel"
+      ],
+      "documents": [
+        6,
+        7,
+        8,
+        11,
+        17,
+        26,
+        29
+      ],
+      "label": "faso mêbo mêbo faso"
+    },
+    {
+      "topic_id": 1,
+      "keywords": [
+        "commune",
+        "fara",
+        "investissement",
+        "développement local",
+        "commune fara",
+        "bilan",
+        "local",
+        "domaine",
+        "développement",
+        "mairie"
+      ],
+      "documents": [
+        2,
+        15
+      ],
+      "label": "commune fara investissement"
+    },
+    {
+      "topic_id": 2,
+      "keywords": [
+        "régional",
+        "culture",
+        "gourma",
+        "traditionnel",
+        "région",
+        "tenkodogo",
+        "src",
+        "snc",
+        "nakambé",
+        "semaine"
+      ],
+      "documents": [
+        23,
+        25,
+        32,
+        33,
+        35
+      ],
+      "label": "régional culture gourma"
+    },
+    {
+      "topic_id": 3,
+      "keywords": [
+        "scolaire",
+        "directeur",
+        "école",
+        "enseignant",
+        "élève",
+        "éducation",
+        "champ",
+        "cceb",
+        "hien",
+        "enfant"
+      ],
+      "documents": [
+        1,
+        3,
+        9,
+        18,
+        28,
+        30
+      ],
+      "label": "scolaire directeur école"
+    },
+    {
+      "topic_id": 4,
+      "keywords": [
+        "ae",
+        "ministre",
+        "onu",
+        "état",
+        "burkinabè",
+        "faso",
+        "niger",
+        "mali",
+        "confédération",
+        "nation"
+      ],
+      "documents": [
+        4,
+        5,
+        10,
+        14,
+        22,
+        24,
+        39
+      ],
+      "label": "ae ministre onu"
+    },
+    {
+      "topic_id": 5,
+      "keywords": [
+        "point",
+        "match",
+        "tournoi",
+        "foot",
+        "fbf",
+        "vitesse",
+        "qualifié",
+        "sport",
+        "football",
+        "groupe"
+      ],
+      "documents": [
+        16,
+        36,
+        37,
+        38
+      ],
+      "label": "point match tournoi"
+    },
+    {
+      "topic_id": 6,
+      "keywords": [
+        "kampti",
+        "jeune",
+        "hectare",
+        "poni",
+        "local",
+        "village",
+        "technique",
+        "trouver",
+        "fille",
+        "famille"
+      ],
+      "documents": [
+        13,
+        20,
+        27,
+        31,
+        34,
+        40
+      ],
+      "label": "kampti jeune hectare"
+    },
+    {
+      "topic_id": 7,
+      "keywords": [
+        "produit",
+        "décret",
+        "autorisation",
+        "autorisation spécial",
+        "importation",
+        "spécial importation",
+        "soumettre",
+        "spécial",
+        "police",
+        "exportation"
+      ],
+      "documents": [
+        12,
+        19,
+        21
+      ],
+      "label": "produit décret autorisation"
+    }
+  ],
+  "bertopic": [
+    {
+      "topic_id": 0,
+      "keywords": [
+        "burkina",
+        "faso",
+        "ministre",
+        "paix",
+        "point",
+        "social",
+        "information",
+        "national",
+        "population",
+        "septembre"
+      ],
+      "documents": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        14,
+        17,
+        19,
+        22,
+        23,
+        24,
+        25,
+        29,
+        30,
+        32,
+        33,
+        36,
+        37,
+        38,
+        39
+      ],
+      "label": "burkina faso ministre"
+    },
+    {
+      "topic_id": 1,
+      "keywords": [
+        "scolaire",
+        "commune",
+        "être",
+        "local",
+        "initiative",
+        "éducation",
+        "élève",
+        "kampti",
+        "bourse",
+        "hectare"
+      ],
+      "documents": [
+        1,
+        2,
+        9,
+        13,
+        15,
+        18,
+        27,
+        28,
+        40
+      ],
+      "label": "scolaire commune être"
+    }
+  ],
+  "coherence": {
+    "lda": 0.41601002629924244,
+    "nmf": 0.6518740148295203,
+    "bertopic": 0.3191182853357194
+  },
+  "_meta": {
+    "lda": "2025-09-27T09:30:43",
+    "nmf": "2025-09-27T09:30:43",
+    "bertopic": "2025-09-27T09:30:54",
+    "coherence": "2025-09-27T09:41:33"
+  }
+}

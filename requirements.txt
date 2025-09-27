@@ -1,0 +1,10 @@
+python==3.9.23
+pandas==2.3.2
+matplotlib==3.9.2
+plotly==6.3.0
+streamlit==1.50.0
+sentence-transformers==4.1.0
+wordcloud==1.9.4
+ipykernel==6.30.1
+spacy==3.7.2
+gensim==4.3.3
